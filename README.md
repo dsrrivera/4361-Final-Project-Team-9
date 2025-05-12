@@ -11,7 +11,7 @@ Instructions on how to run the KNN_EMNIST_Classifier.py code:
     2) Install KNN_EMNIST_Classifier.py to the same directory as the dataset files
     3) Execute the program
 
-Inst
+
 
 
 ======================= PROGRAM DETAILS =======================
@@ -22,6 +22,38 @@ During the execution of KNN_EMNIST_Classifier.py the following will be done:
     iii) the program will out a performance report using sklearns classification report
     iv) a dictionary will be outputted containing the decoded labels and associated characters to better understand the classification report
     v) lastly, the program will output any SINGLE misclassification per class that contributes to more than 25% of the total misclassification for one label we will output that result. For example, if 'p' is classified as '9' more than or equal to 25% of 400 samples for 'p', then the program will print that result
+
+
+1. dtree.py (Decision Tree Classifier)
+    i) The program will output status to the console and display performance metrics (e.g., accuracy, precision, recall) throughout the execution.
+
+    ii) The program will display two graphs:
+        - The confusion matrix to show misclassifications between predicted and actual labels.
+        - A Decision Tree plot visualizing the structure of the decision tree (zoomed into the first 3 levels for clarity).
+
+    iii) The program will output a performance report using sklearn’s classification_report, showing metrics such as precision, recall, and F1-scores for each class.
+
+
+
+2. logisticRegression.py (Logistic Regression Classifier)
+    i) The program will output status updates to the console and show performance metrics as the model trains and evaluates.
+
+    ii) The program will display two graphs:
+        - The confusion matrix to highlight how well the model predicted each class.
+        - A Scree plot showing the explained variance ratio for each principal component in PCA.
+
+    iii) The program will output a performance report using sklearn’s classification_report, detailing precision, recall, and F1-scores.
+
+
+3. svm.py (Support Vector Machine Classifier)
+    i) The program will output status to the console and provide performance metrics throughout its execution.
+
+    ii) The program will display three graphs:
+        - The confusion matrix to visualize the model’s predictions vs actual values.
+        - An F1-score bar chart showing the performance for each class.
+        - A Scree plot illustrating the explained variance from PCA.
+
+    iii) The program will output a performance report using sklearn’s classification_report, providing a detailed evaluation.
 
 
 ======================= USAGE (For running SVM, LR, DT) =======================
