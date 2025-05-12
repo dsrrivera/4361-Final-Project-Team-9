@@ -12,7 +12,13 @@ Instructions on how to run the KNN_EMNIST_Classifier.py code:
     2) Install KNN_EMNIST_Classifier.py to the same directory as the dataset files
     3) Execute the program
 
+After step 1 for Install all the python files and download 
 
+https://www.kaggle.com/datasets/nikbearbrown/tmnist-alphabet-94-characters/data (necessary for tmnist)
+
+https://www.kaggle.com/datasets/crawford/emnist/data?select=emnist-byclass-test.csv  (Optional already in the github zip)
+
+Also go to usage for the SVM, LR, DT files on how to run
 
 
 ======================= PROGRAM DETAILS =======================
