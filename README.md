@@ -6,7 +6,7 @@ KNN_EMNIST_Classifier.py written by - David S. Rivera-Rivera
 ======================= INSTRUCTIONS =======================
 
 Instructions on how to run the KNN_EMNIST_Classifier.py code:
-    1) Install the emnist-balanced-mapping.txt, emnist-balanced-test.csv, emnist-balanced-train.csv
+    1) Install the emnist-balanced-mapping.txt and the zip containing emnist-balanced-test.csv and emnist-balanced-train.csv
     2) Install KNN_EMNIST_Classifier.py to the same directory as the dataset files
     3) Execute the program
 
