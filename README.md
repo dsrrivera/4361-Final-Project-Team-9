@@ -36,3 +36,32 @@ https://stackoverflow.com/questions/61526287/how-to-add-correct-labels-for-seabo
 https://seaborn.pydata.org/generated/seaborn.heatmap.html
 https://www.kaggle.com/code/kadriyeaksakal/confusion-matrix-with-knn-algorithm
 https://arxiv.org/abs/1702.05373
+
+Sources used for logisticRegression.py:
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+https://seaborn.pydata.org/generated/seaborn.heatmap.html
+https://stackoverflow.com/questions/36988123/how-to-interpret-pca-scree-plot
+https://stackoverflow.com/questions/28931224/plotting-heatmap-of-classification-report-in-python
+https://stackoverflow.com/questions/11874767/plotting-a-roc-curve-in-scikit-learn
+
+Sources used for svm.py:
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+https://seaborn.pydata.org/generated/seaborn.barplot.html
+https://matplotlib.org/stable/gallery/images_contours_and_fields/contour_demo.html
+https://stackoverflow.com/questions/39465687/how-to-plot-decision-boundary-for-svm
+https://stackoverflow.com/questions/42010721/how-to-plot-a-decision-boundary-for-multiclass-classification
+https://stackoverflow.com/questions/25551977/retrieve-misclassified-documents-using-scikitlearn
+
+Sources used for dtree.py:
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.plot_tree.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+https://seaborn.pydata.org/generated/seaborn.heatmap.html
+https://stackoverflow.com/questions/28931224/plotting-heatmap-of-classification-report-in-python
+https://stackoverflow.com/questions/61526287/how-to-add-correct-labels-for-seaborn-confusion-matrix
