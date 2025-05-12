@@ -25,6 +25,7 @@ During the execution of KNN_EMNIST_Classifier.py the following will be done:
 
 
 ======================= USAGE (For running SVM, LR, DT) =======================
+
 For easier usage, you can execute any of the three scripts by using the following commands:
 
 1. Decision Tree (dtree.py)
