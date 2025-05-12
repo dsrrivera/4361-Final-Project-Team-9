@@ -72,27 +72,27 @@ For easier usage, you can execute any of the three scripts by using the followin
 1. Decision Tree (dtree.py)
 To run the Decision Tree Classifier:
 
-python dtree.py --mode emnist
-
 python dtree.py --mode emnist --quick
+
+python dtree.py --mode emnist
 
 python dtree.py --mode tmnist_symbols
 
 3. Logistic Regression (logisticRegression.py)
 To run the Logistic Regression Classifier:
 
-python logisticRegression.py --mode emnist
-
 python logisticRegression.py --mode emnist --quick
+
+python logisticRegression.py --mode emnist
 
 python logisticRegression.py --mode tmnist_symbols
 
 5. Support Vector Machine (svm.py)
 To run the Support Vector Machine Classifier:
 
-python svm.py --mode emnist
-
 python svm.py --mode emnist --quick
+
+python svm.py --mode emnist
 
 python svm.py --mode tmnist_symbols
 
