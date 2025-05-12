@@ -2,6 +2,7 @@
 Team 6 final project for Spring 2025 CS4361 Machine Learning 
 
 KNN_EMNIST_Classifier.py written by - David S. Rivera-Rivera
+
 dtree.py, logisticRegression.py, & svm.py - Isaac Hita
 
 ======================= INSTRUCTIONS =======================
