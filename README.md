@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/nikbearbrown/tmnist-alphabet-94-characters/data 
 
 https://www.kaggle.com/datasets/crawford/emnist/data?select=emnist-byclass-test.csv  (Optional already in the github zip)
 
-Also go to usage for the SVM, LR, DT files on how to run
+Also go to {USAGE} for the SVM, LR, DT files on how to run
 
 
 ======================= PROGRAM DETAILS =======================
