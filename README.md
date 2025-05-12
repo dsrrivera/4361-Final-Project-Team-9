@@ -28,24 +28,35 @@ During the execution of KNN_EMNIST_Classifier.py the following will be done:
 
 For easier usage, you can execute any of the three scripts by using the following commands:
 
+[--quick] is a test run, to see if the code can run for each model, either ignore or don't copy
+
 1. Decision Tree (dtree.py)
 To run the Decision Tree Classifier:
 
-bash
-Copy
+python dtree.py --mode emnist
+
 python dtree.py --mode emnist --quick
-2. Logistic Regression (logisticRegression.py)
+
+python dtree.py --mode tmnist_symbols
+
+3. Logistic Regression (logisticRegression.py)
 To run the Logistic Regression Classifier:
 
-bash
-Copy
+python logisticRegression.py --mode emnist
+
 python logisticRegression.py --mode emnist --quick
-3. Support Vector Machine (svm.py)
+
+python logisticRegression.py --mode tmnist_symbols
+
+5. Support Vector Machine (svm.py)
 To run the Support Vector Machine Classifier:
 
-bash
-Copy
+python svm.py --mode emnist
+
 python svm.py --mode emnist --quick
+
+python svm.py --mode tmnist_symbols
+
 Arguments for each script:
 --mode: Choose between emnist (digits and letters) or tmnist_symbols (symbols only).
 
