@@ -16,7 +16,7 @@ After step 1 for Install all the python files and download
 
 https://www.kaggle.com/datasets/nikbearbrown/tmnist-alphabet-94-characters/data (necessary for tmnist)
 
-https://www.kaggle.com/datasets/crawford/emnist/data?select=emnist-byclass-test.csv  (Optional already in the github zip)
+https://www.kaggle.com/datasets/crawford/emnist/data?select=emnist-byclass-test.csv  (Optional already in the github zip [remember to unzip])
 
 Also go to {USAGE} for the SVM, LR, DT files on how to run
 
